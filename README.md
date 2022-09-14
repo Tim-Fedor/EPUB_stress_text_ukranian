@@ -10,6 +10,7 @@ This project was created to automatically place word stress in any Ukrainian boo
     python stress_book.py garri.epub new_garri.epub
 
 Після цього нову книгу можна навіть конвертувати в інший формат. Наприклад - в [MOBI](https://convertio.co/ru/epub-mobi)
+
 After that, the new book can even be converted to another format. For example - in [MOBI](https://convertio.co/ru/epub-mobi)
 
 ## Як написан? / How is it written?
